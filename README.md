@@ -6,10 +6,10 @@
   <br>
   <br>
   <a class="social" href="https://www.linkedin.com/in/abhishek--tripathi/">
-      <img src="https://github.com/tripathi-abhishek/Projects/blob/master/linkedin.svg" alt="linkedin">  
+      <img src="https://github.com/tripathi-abhishek/Projects/blob/master/linkedin.svg" alt="linkedin" style="margin-right:20px">  
    </a>
    <a class="social" href="https://tripathi-abhishek.github.io/">
-     <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="website" style="margin-left:20px">
+     <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="website">
    </a>
    
    </div> 
