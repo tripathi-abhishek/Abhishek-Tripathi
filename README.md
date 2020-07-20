@@ -6,7 +6,6 @@
   <a class="social" href="https://www.linkedin.com/in/abhishek--tripathi/">
       <img src="https://github.com/tripathi-abhishek/Projects/blob/master/linkedin.svg" alt="linkedin">
       <img src="https://github.com/tripathi-abhishek/Projects/blob/master/gmail%2020px.svg" alt="gmail">
-      <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="website">
-      
-    </a>
+      <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="website" style="margin-right:20px>
+   </a>
 </div>
