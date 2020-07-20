@@ -11,4 +11,5 @@
    <a class="social" href="https://tripathi-abhishek.github.io/">
      <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="website" style="margin-left:20px">
    </a>
+   
    </div> 
