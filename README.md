@@ -3,14 +3,3 @@
   <p><h2>Hi, I'm Abhishek.</h2></p>
   <p><h3>a web designer & developer</h3></p>
   </div>
-  
-  
-
-
-
-
-🏡 [website][Portfolio] **|**  
-👔 [linkedin][linkedin]
-
-[website]: tripathi-abhishek.github.io/
-[linkedin]: https://www.linkedin.com/in/abhishek--tripathi/
