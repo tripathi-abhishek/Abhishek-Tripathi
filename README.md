@@ -9,7 +9,9 @@
       <img src="https://github.com/tripathi-abhishek/Projects/blob/master/linkedin.svg" alt="linkedin" style="margin-right:20px">  
    </a>
    <a class="social" href="https://tripathi-abhishek.github.io/">
-     <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="website">
+     <img src="https://github.com/tripathi-abhishek/Projects/blob/master/icon%20(1).svg" alt="linkedIn">
    </a>
-   
+   <a class="social" href="https://sourcerer.io/tripathi-abhishek">
+     <img src="https://github.com/tripathi-abhishek/Projects/blob/master/sourcerer%2020px.svg" alt="sourcerer">
+   </a>
    </div> 
