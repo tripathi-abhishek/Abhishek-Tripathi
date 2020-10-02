@@ -2,7 +2,7 @@
 <div align="center">
  
   <p><h2>Hi, I'm Abhishek.</h2></p>
-  <p><h3>a web designer & developer</h3></p>
+  <h3>a web designer & developer</h3>
   <br>
   <br>
   <a class="social" href="https://www.linkedin.com/in/abhishek--tripathi/">
