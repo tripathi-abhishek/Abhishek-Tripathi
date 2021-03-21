@@ -1,6 +1,6 @@
 # Hey 👋, This is Abhishek Tripathi
 ### About me 
-I am currently an undergraduate at Ramaiah Institute of Technology pursuing a degree in Computer Science.
+Currently an undergrad at Ramaiah Institute of Technology pursuing a degree in Computer Science.
 Passionate about Problem Solving, Web Development, Open Source and AI. 
 
 **Skills:** Java | Python | JS | C | C++ | GoLang | MERN | AI
